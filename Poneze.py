@@ -1,7 +1,7 @@
 n = raw_input()
 if(n>0):
- print("Then number is positive")
+ print("Positive")
 elif (n<0):
- print("The number is negative")
+ print("Negative")
 else:
- print("The number is zero")
+ print("Zero")
