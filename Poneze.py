@@ -1,5 +1,4 @@
-print("enter any number")
-n=raw_input()
+n = raw_input()
 if(n>0):
  print("Then number is positive")
 elif (n<0):
