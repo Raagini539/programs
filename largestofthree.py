@@ -1,0 +1,10 @@
+num1=input()
+num2=input()
+num3=input()
+if(num1>num2):
+ elif(num1>num3):
+  print(num1)
+  elif(num2>num3):
+    print(num2)
+else:
+  print(num3)
