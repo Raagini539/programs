@@ -1,3 +1,4 @@
+#ragini
 count=0
 str1=input()
 str2=input()
@@ -9,4 +10,3 @@ if(count==1):
   print("yes")
 else:
   print("no")
-        
