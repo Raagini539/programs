@@ -1,5 +1,6 @@
 #to find the smallest number after deleting the given number
 #raagini
+#juu
 n=input()
 k=input()
 c=list(str(n))
