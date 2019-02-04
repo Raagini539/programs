@@ -1,5 +1,5 @@
 #finding common prefix letters from given strings
-a=intput()
+a=input()
 b=input()
 c=list(b)
 d=0
