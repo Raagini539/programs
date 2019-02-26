@@ -1,3 +1,5 @@
+#raagini
+#harini
 a=list(input())
 b=list(input())
 c=len(a)
