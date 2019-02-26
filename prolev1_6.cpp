@@ -1,6 +1,5 @@
-#raagini
-#harini
-#chitra
+//raagini
+//harini
 #include<stdio.h>
 #include<conio.h>
     int main()
