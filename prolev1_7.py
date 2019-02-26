@@ -1,3 +1,5 @@
+#raagini
+#harini
 import sys, string, math
 n = int(input())
 if n==18 :
