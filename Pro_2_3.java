@@ -1,4 +1,5 @@
-import java.util.Scanner;
+#raagini
+	 import java.util.Scanner;
 
 public class MinIndexRange {
 
