@@ -1,5 +1,5 @@
 #raagini
-fromoperator import xor
+from operator import xor
 from functools import reduce
 
 nq = input().split()
