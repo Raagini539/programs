@@ -1,5 +1,5 @@
 #raagini
-fromitertools import permutations
+from itertools import permutations
 
 in_str = input()
 
