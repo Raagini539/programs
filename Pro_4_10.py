@@ -1,5 +1,5 @@
 #raagini
-fromitertools import permutations
+from itertools import permutations
 l=list(permutations(['d','h','o','n','i']))
 a=input()
 m=[]
